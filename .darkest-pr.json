@@ -1,5 +1,5 @@
 {
-  "debug_mode":true
+  "debug_mode":true,
   "event_subscriptions":{
         "pull_request.opened":false,
         "issue_comment.created":false,
