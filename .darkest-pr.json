@@ -4,7 +4,9 @@
         "pull_request.opened":false,
         "issue_comment.created":false,
         "pull_request.review_requested":false,
-        "pull_request_review.submitted":true
+        "pull_request.review_requested":true,
+        "pull_request_review.submitted":true,
+        "pull_request.review_request_removed":false,
     }
 
 }
